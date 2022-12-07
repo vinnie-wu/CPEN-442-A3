@@ -1,2 +1,3 @@
 # CPEN-442-A3
-Please see A3_inclass.ipynb for source code and results.
+
+Mining of a blob data using SHA256 hash. It finds the coin (hash value), such that the SHA256 hash starts with a series of zeros.
